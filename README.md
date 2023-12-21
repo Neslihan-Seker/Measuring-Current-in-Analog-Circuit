@@ -21,7 +21,7 @@ This project is an analog circuit simulation created in Proteus (version 8.14). 
 1. Clone the repository to your local machine:
 
 
-   git clone https://github.com/Neslihan-Seker/measuring-current-proteus.git
+   git clone https://github.com/Neslihan-Seker/Measuring-Current-in-Analog-Circuit.git
 
 1.Open the project file in Proteus.
 Usage.
@@ -40,10 +40,7 @@ If you want to contribute to this project, follow the steps below:
 
 
 git checkout -b feature-or-bugfix
-3.Make your changes and commit:
 
-
-git commit -m "Your commit message"
 4.Push your changes to your fork:
 
 
